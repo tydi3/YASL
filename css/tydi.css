@@ -1,0 +1,22 @@
+/* tydi.css » Yale™ Library - Yet Another Laravel Elevator © 2024 ∞ AO™ • @osawereao • www.osawere.com ∞ Apache License */
+:root {
+	--fade-duration: 1s;
+	--fade-delay: 4s;
+
+	--error-color: #e11d48;
+}
+
+@keyframes oFade {
+	from {
+		visibility: visible;
+		opacity: 1;
+	}
+	to {
+		visibility: hidden;
+		opacity: 0;
+	}
+}
+
+.o-fade {
+	animation: oFade var(--fade-duration) linear var(--fade-delay) forwards;
+}

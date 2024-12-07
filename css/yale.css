@@ -1,5 +1,5 @@
 /* yale.css » Yale™ Library - Yet Another Laravel Elevator © 2024 ∞ AO™ • @osawereao • www.osawere.com ∞ Apache License */
-:root {
+/* :root {
 	--fade-duration: 1s;
 	--fade-delay: 4s;
 
@@ -26,3 +26,52 @@
 	background-repeat: no-repeat;
 	background-position: center center;
 }
+
+img.o-preview {
+	height: auto;
+	max-width: 100%;
+	width: 10.62em;
+	border-radius: 0.25rem;
+}
+
+img.o-dp {
+	height: auto;
+	width: 200px;
+	border-radius: 6px;
+	margin-bottom: 1em;
+	object-fit: cover;
+	border: 2px solid gold;
+	padding: 4px;
+}
+
+img.o-signature {
+	height: auto;
+	width: 200px;
+	border-radius: 6px;
+}
+
+td img.o-dp-row {
+	height: auto;
+	max-width: 44px;
+	max-height: 44px;
+	border-radius: 50%;
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+td img.o-signature {
+	max-height: 50px;
+	width: auto;
+} */
